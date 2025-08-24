@@ -8,6 +8,7 @@ A deep learning project that generates captions for images by combining computer
 - Custom synthetic dataset (colored shapes, stripes, bands)  
 - Supports training, evaluation, and caption generation  
 - Save & load model functionality
+  
  Tech Stack  
 - Python 3  
 - TensorFlow / Keras  
